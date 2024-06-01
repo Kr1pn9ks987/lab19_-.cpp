@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lab19_Габестро.cpp", "lab19_Габестро.cpp\lab19_Габестро.cpp.vcxproj", "{CF386AB6-B856-4851-A758-0775A21C83A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF386AB6-B856-4851-A758-0775A21C83A5}.Debug|x64.ActiveCfg = Debug|x64
+		{CF386AB6-B856-4851-A758-0775A21C83A5}.Debug|x64.Build.0 = Debug|x64
+		{CF386AB6-B856-4851-A758-0775A21C83A5}.Debug|x86.ActiveCfg = Debug|Win32
+		{CF386AB6-B856-4851-A758-0775A21C83A5}.Debug|x86.Build.0 = Debug|Win32
+		{CF386AB6-B856-4851-A758-0775A21C83A5}.Release|x64.ActiveCfg = Release|x64
+		{CF386AB6-B856-4851-A758-0775A21C83A5}.Release|x64.Build.0 = Release|x64
+		{CF386AB6-B856-4851-A758-0775A21C83A5}.Release|x86.ActiveCfg = Release|Win32
+		{CF386AB6-B856-4851-A758-0775A21C83A5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B617E414-3623-4CCB-8C8F-0561BF42D771}
+	EndGlobalSection
+EndGlobal
